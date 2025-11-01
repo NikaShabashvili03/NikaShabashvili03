@@ -73,12 +73,6 @@ const developer = {
 
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
-
-</div>
-
-<div align="center">
-
 ### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp,cs,html,css&theme=dark" />
@@ -89,23 +83,36 @@ const developer = {
 
 ### ⚙️ Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=django,fastapi,spring,nodejs,express,qt&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,spring,nodejs,express,qt,pyqt&theme=dark" />
+
+### 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=reactnative&theme=dark" />
 
 ### 💾 Databases & ORMs
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,postgres,sqlite&theme=dark" />
 
 ### 🔧 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,unreal&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,insomnia,unreal&theme=dark" />
 
 ### 🌐 Blockchain & Web3
 
-<img src="https://skillicons.dev/icons?i=solidity,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
 <img src="https://img.shields.io/badge/BSC-F0B90B?style=for-the-badge&logo=binance&logoColor=white" alt="Binance Smart Chain"/>
 
+### 🎮 Game Development
+
+<img src="https://skillicons.dev/icons?i=unreal&theme=dark" />
+
+### 💡 Other
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs&theme=dark" />
+
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
