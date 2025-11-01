@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=280&section=header&text=NIKA%20SHABASHVILI&fontSize=85&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Backend%20Specialist%20•%20Blockchain%20Engineer&descSize=22&descAlignY=53" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=300&section=header&text=NIKA%20SHABASHVILI&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Backend%20Specialist%20•%20Software%20Engineer&descSize=24&descAlignY=55" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=%E2%9A%A1+Building+Scalable+Web+Applications;%F0%9F%8C%90+Blockchain+%26+DApp+Development;%F0%9F%8E%AE+Game+Development+in+UE5;%F0%9F%94%A5+Real-Time+Systems+%26+APIs" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=100&lines=%E2%9A%A1+Building+Scalable+Web+Applications;%F0%9F%8E%AE+Game+Development+in+Unreal+Engine+5;%F0%9F%94%A5+Real-Time+Systems+%26+High-Performance+APIs;%F0%9F%92%BB+Always+Learning%2C+Always+Building" alt="Typing Animation" />
 
 <br/>
 
@@ -35,7 +35,29 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
 ```typescript
-const developer = {
+interface TechStack {
+    readonly backend: string[];
+    readonly frontend: string[];
+    readonly mobile: string[];
+    readonly desktop: string[];
+    readonly databases: string[];
+    readonly gamedev: string[];
+    readonly realtime: string[];
+    readonly tools: string[];
+    readonly languages: string[];
+}
+
+interface Developer {
+    readonly name: string;
+    readonly location: string;
+    readonly title: string;
+    readonly expertise: TechStack;
+    readonly currentFocus: string[];
+    readonly philosophy: string;
+    getYearsOfExperience(): number;
+}
+
+const developer: Developer = {
     name: "Nika Shabashvili",
     location: "🇬🇪 Batumi, Georgia",
     title: "Full-Stack Developer & Backend Specialist",
@@ -47,7 +69,8 @@ const developer = {
             "Java", "Spring Boot"
         ],
         frontend: [
-            "React", "Next.js", "TypeScript"
+            "React", "Next.js", "TypeScript",
+            "HTML5", "CSS3", "TailwindCSS", "SCSS"
         ],
         mobile: ["React Native"],
         desktop: ["Qt", "PyQt6", "C++"],
@@ -55,37 +78,46 @@ const developer = {
             "MySQL", "MongoDB", "Prisma", 
             "PostgreSQL", "SQLite"
         ],
-        blockchain: [
-            "Web3.js", "Smart Contracts", "BSC"
-        ],
         gamedev: ["Unreal Engine 5", "Blueprints"],
         realtime: [
             "WebSockets", "REST APIs", "Async Systems"
         ],
         tools: [
-            "Linux", "Git", "VPS", "Postman", "Insomnia"
+            "Linux", "Git", "VPS", "Docker",
+            "Postman", "Insomnia", "VS Code"
         ],
-        other: ["C++", "C#"]
+        languages: [
+            "Python", "Java", "JavaScript", "TypeScript",
+            "C++", "C#"
+        ]
     },
     
     currentFocus: [
-        "🌐 Building decentralized applications",
-        "⚡ Creating high-performance APIs",
+        "⚡ Creating high-performance backend APIs",
         "🎮 Developing multiplayer game systems",
-        "📱 Crafting mobile-first experiences"
+        "📱 Building mobile-first applications",
+        "🏗️ Architecting scalable systems"
     ],
     
-    philosophy: "Code with logic, build with passion 🚀"
-};
+    philosophy: "Code with logic, build with passion 🚀",
+    
+    getYearsOfExperience: () => {
+        const startYear = 2020;
+        return new Date().getFullYear() - startYear;
+    }
+} as const;
+
+// Current Status
+console.log(`${developer.name} is building the future! 🚀`);
 ```
 
 ### 🎯 Quick Highlights
 
-- 💼 Working on **Blockchain Social Network** & **B2B Platform**
+- 💼 Working on **Enterprise B2B Platform** & **Game Development Projects**
 - 🎮 Building **multiplayer systems** in Unreal Engine 5
-- 📱 Developing **offline-first mobile apps**
-- 🧠 Learning **new technologies** every single day
-- 🌱 Growing expertise in **Web3** and **distributed systems**
+- 📱 Developing **offline-first mobile apps** with React Native
+- 🧠 Learning **advanced system architecture** & **performance optimization**
+- 🌱 Growing expertise in **scalable backend systems** & **real-time applications**
 - 💡 Open to **collaborations** and **innovative projects**
 
 <br clear="right"/>
@@ -138,6 +170,8 @@ const developer = {
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
 </td>
@@ -155,7 +189,19 @@ const developer = {
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="25"> Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,unreal&perline=3&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman&perline=3&theme=dark" />
+</div>
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="3">
+
+### <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="25"> Game Development
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=unreal&theme=dark" />
+<img src="https://img.shields.io/badge/Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </div>
 
 </td>
@@ -270,6 +316,9 @@ const developer = {
 
 ```diff
 + Full-Stack Development Projects
++ Backend Architecture & API Design
++ Mobile Application Development
++ Game Development & Real-Time Systems
 + Open Source Contributions
 + Freelance Opportunities
 + Technical Consultations
