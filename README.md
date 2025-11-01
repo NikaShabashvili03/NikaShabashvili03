@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/nika-shabashvili-8718a8231/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
 </a>
-<a href="mailto:shabashvilinika@yahoo.com">
+<a href="mailto:shabashvilinika07@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
 </a>
 <a href="https://github.com/NikaShabashvili03">
@@ -95,7 +95,7 @@ const developer = {
 
 ### 🔧 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,insomnia,unreal&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,unreal&theme=dark" />
 
 ### 🎮 Game Development
 
@@ -297,7 +297,7 @@ Status: 🟢 MVP Complete
 <td align="center" width="33%">
 
 ### 📧 Email
-**[shabashvilinika@yahoo.com](mailto:shabashvilinika@yahoo.com)**
+**[shabashvilinika07@gmail.com](mailto:shabashvilinika07@gmail.com)**
 
 For project inquiries and collaborations
 
@@ -327,7 +327,6 @@ Check out my code
 
 ```diff
 + Full-Stack Development Projects
-+ Blockchain & Web3 Collaborations
 + Open Source Contributions
 + Freelance Opportunities
 + Technical Consultations
