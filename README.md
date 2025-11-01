@@ -115,7 +115,7 @@ I believe in writing clean, maintainable code that solves real problems. Every p
 
 I'm always open to collaborating on interesting projects or discussing new technologies!
 
-- 📧 **Email:** [shabashvilinika@yahoo.com](mailto:shabashvilinika07@gmail.com)
+- 📧 **Email:** [shabashvilinika07@gmail.com](mailto:shabashvilinika07@gmail.com)
 - 💻 **GitHub:** [@NikaShabashvili03](https://github.com/NikaShabashvili03)
 
 ---
