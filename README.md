@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F7F7&center=true&vCenter=true&repeat=true&width=900&lines=%E2%9A%A1+Building+Scalable+Web+Applications;%F0%9F%8E%AE+Game+Development+in+Unreal+Engine+5;%F0%9F%94%A5+Real-Time+Systems+%26+High-Performance+APIs;%F0%9F%92%BB+Always+Learning%2C+Always+Building" alt="Typing Animation" />
 
 <br/>
+<br/>
 
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/nika-shabashvili-8718a8231/">
