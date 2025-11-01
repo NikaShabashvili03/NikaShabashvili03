@@ -55,7 +55,7 @@ interface Developer {
     readonly expertise: TechStack;
     readonly currentFocus: string[];
     readonly philosophy: string;
-    getYearsOfExperience(): number;
+    getYearsOfExperience: () => number;
 }
 
 const developer: Developer = {
