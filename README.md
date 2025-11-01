@@ -6,10 +6,9 @@
   
   *Building powerful and scalable web, desktop, and blockchain-based applications*
   
-  📍 Batumi, Georgia
+  📍 Tbilisi, Georgia
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nika-shabashvili-8718a8231/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shabashvilinika@yahoo.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shabashvilinika07@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikaShabashvili03)
 
 </div>
@@ -116,8 +115,7 @@ I believe in writing clean, maintainable code that solves real problems. Every p
 
 I'm always open to collaborating on interesting projects or discussing new technologies!
 
-- 📧 **Email:** [shabashvilinika@yahoo.com](mailto:shabashvilinika@yahoo.com)
-- 💼 **LinkedIn:** [Nika Shabashvili](https://www.linkedin.com/in/nika-shabashvili-8718a8231/)
+- 📧 **Email:** [shabashvilinika@yahoo.com](mailto:shabashvilinika07@gmail.com)
 - 💻 **GitHub:** [@NikaShabashvili03](https://github.com/NikaShabashvili03)
 
 ---
