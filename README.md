@@ -87,7 +87,7 @@ const developer = {
 
 ### 📱 Mobile Development
 
-<img src="https://skillicons.dev/icons?i=reactnative&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
 
 ### 💾 Databases & ORMs
 
