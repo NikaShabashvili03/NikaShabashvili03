@@ -97,12 +97,6 @@ const developer = {
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,insomnia,unreal&theme=dark" />
 
-### 🌐 Blockchain & Web3
-
-<img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
-<img src="https://img.shields.io/badge/BSC-F0B90B?style=for-the-badge&logo=binance&logoColor=white" alt="Binance Smart Chain"/>
-
 ### 🎮 Game Development
 
 <img src="https://skillicons.dev/icons?i=unreal&theme=dark" />
