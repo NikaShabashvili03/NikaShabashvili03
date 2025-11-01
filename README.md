@@ -20,7 +20,7 @@
 
 I'm a passionate full-stack developer focused on crafting clean architectures, efficient APIs, and dynamic user interfaces. I thrive on solving complex problems and building systems that scale.
 
-- 💻 Strong backend experience with **Django**, **FastAPI**, and **Spring Boot**
+- 💻 Strong backend experience with **Django**, **Express**, **FastAPI**, and **Spring Boot**
 - ⚙️ Skilled in **React**, **Next.js**, and **TypeScript** for modern frontends
 - 🧩 Experienced in **REST APIs**, **WebSockets**, and **real-time systems**
 - 🌐 Building decentralized apps (DApps) on **Binance Smart Chain**
@@ -32,7 +32,7 @@ I'm a passionate full-stack developer focused on crafting clean architectures, e
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 💡 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,7 +42,9 @@ I'm a passionate full-stack developer focused on crafting clean architectures, e
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Backend
+---
+
+### ⚙️ Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -50,38 +52,43 @@ I'm a passionate full-stack developer focused on crafting clean architectures, e
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-### Databases
+---
+
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 🖥️ Desktop Development
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=python&logoColor=white)
+
+
+---
+
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+---
 
-### Tools & Technologies
+### 🛠️ Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-2E86C1?style=for-the-badge&logo=server-fault&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
-## ⚡ Featured Projects
-
-### 🌍 Blockchain Social Network
-A decentralized platform combining NFT, trading, and social interactions on Binance Smart Chain. Built with Web3.js and modern React architecture.
-
-### 📊 B2B Platform
-Django REST API for comprehensive product management, supplier relationships, and invoice processing. Features include real-time updates and role-based access control.
-
-### 🎮 UE5 Multiplayer Game
-Phasmophobia-style item and inventory system using Unreal Engine 5 Blueprints. Includes networked gameplay mechanics and persistent player states.
-
-### 📱 Bluetooth Messenger
-Offline-first React Native chat application for iOS & Android. Enables peer-to-peer messaging without internet connectivity.
-
----
+## 💡
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 📈 GitHub Stats
 
