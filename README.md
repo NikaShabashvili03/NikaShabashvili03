@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=300&section=header&text=NIKA%20SHABASHVILI&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Backend%20Specialist%20•%20Software%20Engineer&descSize=24&descAlignY=55" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=100&lines=%E2%9A%A1+Building+Scalable+Web+Applications;%F0%9F%8E%AE+Game+Development+in+Unreal+Engine+5;%F0%9F%94%A5+Real-Time+Systems+%26+High-Performance+APIs;%F0%9F%92%BB+Always+Learning%2C+Always+Building" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F7F7&center=true&vCenter=true&repeat=true&width=900&lines=%E2%9A%A1+Building+Scalable+Web+Applications;%F0%9F%8E%AE+Game+Development+in+Unreal+Engine+5;%F0%9F%94%A5+Real-Time+Systems+%26+High-Performance+APIs;%F0%9F%92%BB+Always+Learning%2C+Always+Building" alt="Typing Animation" />
 
 <br/>
 
