@@ -33,11 +33,18 @@ const developer = {
     title: "Full-Stack Developer & Backend Specialist",
     
     expertise: {
-        backend: ["Django", "FastAPI", "Spring Boot"],
+        backend: [
+            "Python", "Django", "FastAPI", "Node.js", "Express.js", "Java", "Spring Boot"
+        ],
         frontend: ["React", "Next.js", "TypeScript"],
+        mobile: ["React Native"],
+        desktop: ["Qt", "PyQt6", "C++"],
+        databases: ["MySQL", "MongoDB", "Prisma", "PostgreSQL", "SQLite"],
         blockchain: ["Web3.js", "Smart Contracts", "BSC"],
         gamedev: ["Unreal Engine 5", "Blueprints"],
-        realtime: ["WebSockets", "REST APIs", "Async Systems"]
+        realtime: ["WebSockets", "REST APIs", "Async Systems"],
+        tools: ["Linux", "Git", "VPS", "Unreal Engine", "Postman", "Insomnia"],
+        other: ["C++", "C#"]
     },
     
     currentFocus: [
