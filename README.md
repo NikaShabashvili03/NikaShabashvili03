@@ -1,3 +1,4 @@
+<img src="https://avatars.githubusercontent.com/u/104011629?v=4"/>
 # Hi there, I'm Nika Shabashvili! 👋
 
 ### ⚡ Software Engineer | Problem Solver | Tech Enthusiast
