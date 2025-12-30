@@ -1,5 +1,5 @@
 
-<div>
+<div vertical-align="middle">
   <img src="https://avatars.githubusercontent.com/u/104011629?v=4" width="44" style="vertical-align: middle; margin-right: 12px;"/>
   <span style="font-size: 2em; font-weight: bold; vertical-align: middle;">
     Hi there, I'm Nika Shabashvili! 👋
