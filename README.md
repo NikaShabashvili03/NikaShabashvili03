@@ -16,6 +16,11 @@ I am a passionate developer dedicated to building clean, scalable, and efficient
 | **Databases** | MongoDB, SQL, MySQL |
 | **DevOps** | GitHub Actions |
 
+### 🛠️ Tech Stack & Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,django,docker,aws,postgres,mongodb,githubactions" />
+</p>
+
 ---
 
 ### 📊 GitHub Stats
