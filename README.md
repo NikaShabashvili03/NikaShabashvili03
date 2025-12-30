@@ -6,10 +6,6 @@ I am a passionate developer dedicated to building clean, scalable, and efficient
 
 ---
 
-### 🛠️ My Tech Stack
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages & Core**
