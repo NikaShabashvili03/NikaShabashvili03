@@ -10,11 +10,11 @@ I am a passionate developer dedicated to building clean, scalable, and efficient
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, TypeScript, C++ |
+| **Languages** | Python, TypeScript, C# |
 | **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Django, FastAPI |
-| **Databases** | PostgreSQL, MongoDB, Redis |
-| **DevOps** | Docker, AWS, GitHub Actions |
+| **Backend** | FastAPI, Django, Node.JS, .NET |
+| **Databases** | MongoDB, SQL, MySQL |
+| **DevOps** | GitHub Actions |
 
 ---
 
