@@ -8,18 +8,39 @@ I am a passionate developer dedicated to building clean, scalable, and efficient
 
 ### 🛠️ My Tech Stack
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, TypeScript, C# |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | FastAPI, Django, Node.JS, .NET |
-| **Databases** | MongoDB, SQL, MySQL |
-| **DevOps** | GitHub Actions |
+---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
+
+**Languages & Core**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,django,docker,aws,postgres,mongodb,githubactions" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,cs" alt="Languages" />
+  </a>
 </p>
+
+**Frontend Development**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
+  </a>
+</p>
+
+**Backend & Databases**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,dotnet,mongodb,mysql" alt="Backend and DB" />
+  </a>
+</p>
+
+**DevOps & Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=githubactions,git,vscode" alt="DevOps" />
+  </a>
+</p>
+
+---
 
 ---
 
