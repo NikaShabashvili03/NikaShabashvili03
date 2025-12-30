@@ -26,14 +26,12 @@ I am a passionate developer dedicated to building clean, scalable, and efficient
 ---
 
 ### 🌱 What I'm Up To
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Specific Technology, e.g., Kubernetes or Rust]**
+- 🔭 I’m currently not working
 - 💬 Ask me about **Web Development or System Architecture**
-- ⚡ Fun fact: **[Insert a fun personal fact here!]**
+- ⚡ Fun fact: I can turn almost any idea into a mini app before breakfast… okay, maybe not before breakfast, but close.
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikashabashvili)
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikoloz-shabashvili-8718a8231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shabashvilinika07@gmail.com)
