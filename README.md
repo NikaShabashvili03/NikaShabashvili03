@@ -1,6 +1,6 @@
 
 <p align="start">
-  <img src="https://avatars.githubusercontent.com/u/104011629?v=4" width="50" style="vertical-align: middle;"/> 
+  <img src="https://avatars.githubusercontent.com/u/104011629?v=4" width="44" style="vertical-align: middle;"/> 
   <span style="font-size: 2em; font-weight: bold;">Hi there, I'm Nika Shabashvili! 👋</span>
 </p>
 
