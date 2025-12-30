@@ -1,5 +1,8 @@
 
-<img src="https://avatars.githubusercontent.com/u/104011629?v=4" style="width: 50px"/> # Hi there, I'm Nika Shabashvili! 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/104011629?v=4" width="50" style="vertical-align: middle;"/> 
+  <span style="font-size: 2em; font-weight: bold;">Hi there, I'm Nika Shabashvili! 👋</span>
+</p>
 
 ### ⚡ Software Engineer | Problem Solver | Tech Enthusiast
 
