@@ -20,9 +20,17 @@ I am a passionate developer dedicated to building clean, scalable, and efficient
 
 ### 📊 GitHub Stats
 
-![Nika's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikaShabashvili03&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikaShabashvili03&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikaShabashvili03&show_icons=true&theme=radical" alt="Nika's Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikaShabashvili03&theme=radical" alt="GitHub Streak" width="400" />
+</p>
 
+### 🏆 GitHub Trophies
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NikaShabashvili03&theme=radical&column=4" alt="Trophies" />
+  </a>
+</p>
 ---
 
 ### 🌱 What I'm Up To
